@@ -5,14 +5,14 @@
     about me ! ★ 
 
     │▸ systems analysis and development student
-    │   ┗ ▸ working as a suport intern
+    │   ┗ ▸ working as a analist & developer
     │   ┗ ▸ focus on full stack development
     
     │▸ learning . . .
-        ┗ ▸  python for back e data analysis
-          ▸  kotlin & android
-          ▸  IA for development 
+        ┗ ▸  ux/ui design
           ▸  angular
+          ▸  spring framework 
+          ▸  postgreSQL
           
     │▸ knowledge
     │   ┗ ▸ java, javascript, python
