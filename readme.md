@@ -5,7 +5,7 @@
     about me ! ★ 
 
     │▸ systems analysis and development 
-    │   ┗ ▸ working as a analist & developer
+    │   ┗ ▸ working as an analist & developer
     │   ┗ ▸ focus on full stack development
     
     │▸ learning . . .
