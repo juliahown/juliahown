@@ -4,15 +4,14 @@
     
     about me ! ★ 
 
-    │▸ systems analysis and development student
+    │▸ systems analysis and development 
     │   ┗ ▸ working as a analist & developer
     │   ┗ ▸ focus on full stack development
     
     │▸ learning . . .
-        ┗ ▸  ux/ui design
-          ▸  angular
-          ▸  spring framework 
-          ▸  postgreSQL
+        ┗ ▸  spring framework 
+          ▸  microservices
+          ▸  software enginner
           
     │▸ knowledge
     │   ┗ ▸ java, javascript, python
