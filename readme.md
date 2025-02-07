@@ -6,14 +6,13 @@
 
     │▸ systems analysis and development 
     │   ┗ ▸ working as an analist & developer
-    │   ┗ ▸ focus on full stack development
+    │   ┗ ▸ focus on software engineer 
     
     │▸ learning . . .
         ┗ ▸  spring framework 
-          ▸  microservices
-          ▸  software enginner
+          ▸  devops
           
     │▸ knowledge
     │   ┗ ▸ java, javascript, python
-    │   ┗ ▸ react.js
+    │   ┗ ▸ react.js, spring boot
 
